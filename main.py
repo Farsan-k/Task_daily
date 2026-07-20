@@ -1,7 +1,8 @@
-import numpy as np
+import cv2
 
-confidence = [0.2, 0.15, 0.5, 0.05, 0.1]
+from ultralytics import YOLO
 
-class_name = np.argmax(confidence)
+image = cv2.imread('img.png')
 
-print(class_name)
+model = YOLO('yolov8n.pt')
+
