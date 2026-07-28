@@ -93,5 +93,5 @@ while True:
 
     output = generate_text(prompt)
 
-    print("\nGenerated Text:")
+    print("\nGenerated New Text:")
     print(output)
