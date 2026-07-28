@@ -1,0 +1,41 @@
+I like pizza
+I like burger
+I like pasta
+I like chicken
+I love pizza
+I love coding
+I love Python
+I enjoy programming
+You like pizza
+You like burger
+You love coding
+You love Python
+They eat pizza
+They eat burger
+They eat pasta
+He likes football
+He likes cricket
+She likes pizza
+She likes chocolate
+Pizza is delicious
+Burger is tasty
+Pasta is delicious
+Chicken is healthy
+Python is powerful
+Python is easy
+Coding is fun
+Coding is interesting
+Machine learning is amazing
+Deep learning is powerful
+Artificial intelligence is the future
+Natural language processing is exciting
+Transformers are powerful
+GPT generates text
+GPT predicts the next word
+LLMs generate text one token at a time
+Data science is interesting
+Computer vision uses images
+Neural networks learn patterns
+Models learn from data
+Data is important
+AI changes the world
